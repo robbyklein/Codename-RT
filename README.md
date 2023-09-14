@@ -15,7 +15,7 @@ Welcome to the README for our collaborative game development project. While we d
 ## 1. Project Overview <a name="project-overview"></a>
 
 - **Project Name**: Codename-RT
-- **Description**: We are making a clone of Leauge of Legends, but singleplayer!
+- **Description**: We are making a clone of League of Legends, but single-player!
 - **Status**: Early Stages
 
 ---
@@ -33,6 +33,7 @@ Our Technical Design Document (TDD) outlines the technical aspects and architect
 Our Game Design Document (GDD) contains detailed information about the game's concept, gameplay mechanics, story, characters, and more. Click the link below to access the Game Design Document:
 
 [Game Design Document (Figma)](https://www.figma.com/file/hFBzN5uI6EaDt5Fxu1EgTX/Game-Design-Document?type=whiteboard&node-id=0%3A1&t=HFeekezJpQ9Ikn1Z-1)
+[Game Design Document (Notion)](https://trustytea.notion.site/Game-Design-Document-Codename-RT-c798ca75aef6404b832ee13e3163b0db?pvs=4)
 
 ---
 
